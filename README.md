@@ -9,9 +9,9 @@ I'm starting some new projects that i want to share with you, thanks for visitin
 
 ##Social networks
 You can found me here:
-[Twitter] {https://twitter.com/_aleepsy}
-[Instagram] {https://www.instagram.com/aleepsy/}
-[LinkedIn]{https://www.linkedin.com/in/apcastillo/}
+[Twitter](https://twitter.com/_aleepsy)
+[Instagram](https://www.instagram.com/aleepsy/)
+[LinkedIn](https://www.linkedin.com/in/apcastillo/)
 
 <!--
 **aleepsy/aleepsy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
