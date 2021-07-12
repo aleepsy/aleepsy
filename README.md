@@ -7,7 +7,7 @@ I'm starting some new projects that i want to share with you, thanks for visitin
 - 🌱 I’m currently learning *Data Science fundamentals with Python*
 - 👯 I’m looking to collaborate on *student projects*
 
-##Social networks
+## Social networks
 You can found me here:
 [Twitter](https://twitter.com/_aleepsy)
 [Instagram](https://www.instagram.com/aleepsy/)
