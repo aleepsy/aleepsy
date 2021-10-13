@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **student projects**
 
-- 📫 How to reach me **apcastillo94@gmail.com**
+- 📫 How to reach me **alejandra_pcastillo@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
