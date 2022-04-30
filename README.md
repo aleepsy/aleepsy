@@ -1,4 +1,4 @@
-<h2 align="center">Hi there! 👋<br> I'm  <a href="https://www.linkedin.com/in/apcastillo/">Ale Castillo</a></h2>
+<h1 align="center">Hi there! 👋<br> I'm  <a href="https://www.linkedin.com/in/apcastillo/">Ale Castillo</a></h1>
 
 <div align="center">
   <p align="center" href="https://github.com/aleepsy"> 
@@ -90,7 +90,7 @@
   <a href="https://twitter.com/_aleepsy"><img src="https://img.shields.io/badge/-Twitter-%1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&color=1DA1F2" target="_blank"></a>
 </div>
 
-<h2> <img src="https://c.tenor.com/em5yqdp6aqUAAAAC/statistics.gif" width=15px/> My GitHub Stats </h2>
+<h3> <img src="https://c.tenor.com/em5yqdp6aqUAAAAC/statistics.gif" width=15px/> My GitHub Stats </h3>
 
 <div align ="center">
   <a href="https://github.com/aleepsy">
