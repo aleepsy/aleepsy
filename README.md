@@ -2,8 +2,8 @@
 
 <div align="center">
   <p align="center" href="https://github.com/aleepsy"> 
-    <img src="https://komarev.com/ghpvc/?username=aleepsy&label=Profile%20views&color=0e75b6&style=flat&color=yellow" alt="felft"/> 
-    <img src="https://img.shields.io/github/followers/aleepsy.svg?style=flat&logo=github&label=Follow&maxAge=2592000&color=green" alt="felft"/> 
+    <img src="https://komarev.com/ghpvc/?username=aleepsy&label=Profile%20views&color=0e75b6&style=flat&color=yellow" alt="aleepsy"/> 
+    <img src="https://img.shields.io/github/followers/aleepsy.svg?style=flat&logo=github&label=Follow&maxAge=2592000&color=green" alt="aleepsy"/> 
     <img src="https://img.shields.io/twitter/follow/_aleepsy?color=purple&label=Follow&logo=twitter&style=flat" alt="aleepsy"/>   
   </p>
 </div>
@@ -71,10 +71,10 @@
     <img align="center" alt="Azure" width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
   </a>
 
-  <a href="https://www.mathworks.com/" target="_blank">
+  <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer">
   <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="30" /> </a> 
   
-  <a href="https://www.mysql.com/" target="_blank"> 
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
   <img align="center"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="30"/> 
   </a>
 
