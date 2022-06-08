@@ -10,7 +10,7 @@
   
 
 <div>
-  <h2> <img src="https://c.tenor.com/haVBfrXsQ6MAAAAi/star-super-mario.gif" width=15px/> About me <img src="https://c.tenor.com/haVBfrXsQ6MAAAAi/star-super-mario.gif" width=15px/> </h2>
+  <h2> About me  </h2>
   <img align="right" width=220px alt="coder" src="https://c.tenor.com/ARV_14hrkB4AAAAi/diegodrawsart-women-and-girls-in-science.gif"/>
   <img src="https://education.github.com/assets/next/campus-experts/ce-flag-59b436097e6168e12b543fec9e936037ff777d1c0160fa4b07cd7394d8779418.png" width=55px align="right"/>
   <img src="https://media4.giphy.com/media/LrMBxuVKqDHCOJ79fP/giphy.gif?cid=ecf05e47wjry0t76ho0lwpqqrmgxjbigsfbv95j8um8hsvhw&rid=giphy.gif&ct=s" width=55px align="right"/>
@@ -35,7 +35,7 @@
 - 👯 I’m looking forward to collaborate on **student and open source projects**
 </div>
  
-<h3><img src="https://c.tenor.com/9LLhY-WtfbcAAAAi/afas-software-afas.gif" width=20px/> Languages and tools </h3>
+<h3> Languages and tools </h3>
 <div align="center" valign="top"><br>
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
     <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
@@ -80,7 +80,7 @@
 
 </div><br>
 
-<h3> <img src="https://c.tenor.com/5vQNTMmQY4YAAAAC/smms-social-media-makes-sense.gif" width=20px/> Social Media </h3>
+<h3> Social Media </h3>
 </div>
 
 <div align="center">
@@ -90,7 +90,7 @@
   <a href="https://twitter.com/_aleepsy"><img src="https://img.shields.io/badge/-Twitter-%1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&color=1DA1F2" target="_blank"></a>
 </div>
 
-<h3> <img src="https://c.tenor.com/em5yqdp6aqUAAAAC/statistics.gif" width=15px/> My GitHub Stats </h3>
+<h3> My GitHub Stats </h3>
 
 <div align ="center">
   <a href="https://github.com/aleepsy">
