@@ -1,4 +1,4 @@
-<h1 align="center">Hi there! 👋<br> I'm  <a href="https://www.linkedin.com/in/apcastillo/">Ale Castillo</a></h1>
+<h1 align="center">👋<br> I'm  <a href="https://www.linkedin.com/in/apcastillo/">Ale P. Castillo</a></h1>
 
 <div align="center">
   <p align="center" href="https://github.com/aleepsy"> 
@@ -17,9 +17,9 @@
   
   <p align="left"><i><b>
   🎓 Computer Engineering student @ UAM-A<br>
-  👨‍🎓 Beta Microsoft Learn Student Ambassador<br>
+  🟡 Gold Microsoft Learn Student Ambassador<br>
   🚩 GitHub Campus Expert<br>
-  🔰 IBM Student Advocate<br>
+  🔰  IBM Student Advocate<br>
   🌠 TechnoLatina<br>
   👾 X-Women member & founder<br>
   💻 Woman in Tech
@@ -28,11 +28,7 @@
   <p>Interests: 📊 Data Science, 🧠🤖 Artificial Intelligence, 🌐 Web Development and ☁ Cloud
   </p>
 
-- 🔭 I’m currently working on **personal projects and Cloud**
 
-- 🌱 I’m currently learning **Data Science fundamentals with Python**
-
-- 👯 I’m looking forward to collaborate on **student and open source projects**
 </div>
  
 <h3> Languages and tools </h3>
