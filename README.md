@@ -16,10 +16,10 @@
   <img src="https://media4.giphy.com/media/LrMBxuVKqDHCOJ79fP/giphy.gif?cid=ecf05e47wjry0t76ho0lwpqqrmgxjbigsfbv95j8um8hsvhw&rid=giphy.gif&ct=s" width=55px align="right"/>
   
   <p align="left"><i><b>
-  🎓 Computer Engineering student @ UAM-A<br>
+  🎓 Computer Engineering<br>
+  🔰 ModernWork & Copilot Specialist<br>
   🟡 Gold Microsoft Learn Student Ambassador<br>
   🚩 GitHub Campus Expert<br>
-  🔰  IBM Student Advocate<br>
   🌠 TechnoLatina<br>
   👾 X-Women member & founder<br>
   💻 Woman in Tech
@@ -80,9 +80,9 @@
 </div>
 
 <div align="center">
-  <a href="https://www.instagram.com/_aleepsy/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/aleepsyc/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/apcastillo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="mailto:apcastillo94@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white&color=red" target="_blank"></a>
+  <a href="mailto:alejandra_pcastillo@outlook.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white&color=red" target="_blank"></a>
   <a href="https://twitter.com/_aleepsy"><img src="https://img.shields.io/badge/-Twitter-%1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&color=1DA1F2" target="_blank"></a>
 </div>
 
