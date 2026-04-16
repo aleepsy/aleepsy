@@ -1,4 +1,4 @@
-<h1 align="center">👋<br> I'm  <a href="https://www.linkedin.com/in/apcastillo/">Ale P. Castillo</a></h1>
+<h1 align="center">👋<br> I'm  <a href="https://www.linkedin.com/in/apcastillo/">Alejandra Pérez</a> (:</h1>
 
 <div align="center">
   <p align="center" href="https://github.com/aleepsy"> 
@@ -17,15 +17,14 @@
   
   <p align="left"><i><b>
   🎓 Computer Engineering<br>
-  🔰 ModernWork & Copilot Specialist<br>
-  🟡 Gold Microsoft Learn Student Ambassador<br>
+  🔰 Microsoft Security & AI Protection Analyst<br>
   🚩 GitHub Campus Expert<br>
   🌠 TechnoLatina<br>
   👾 X-Women member & founder<br>
   💻 Woman in Tech
   </i></b></p>
 
-  <p>Interests: 📊 Data Science, 🧠🤖 Artificial Intelligence, 🌐 Web Development and ☁ Cloud
+  <p>Interests: 📊 Data Science, 🧠🤖 Artificial Intelligence, 🌐 Security & ☁ Cloud
   </p>
 
 
