@@ -9,7 +9,7 @@
   
 
 <div>
-  <h2> About me  </h2>
+  <h2> About me 💡</h2>
   <img align="right" width=220px alt="coder" src="https://c.tenor.com/ARV_14hrkB4AAAAi/diegodrawsart-women-and-girls-in-science.gif"/>
   <img src="https://githubcampus.expert/assets/images/ce-flag.png" width=55px align="right"/>
   <img src="https://media4.giphy.com/media/LrMBxuVKqDHCOJ79fP/giphy.gif?cid=ecf05e47wjry0t76ho0lwpqqrmgxjbigsfbv95j8um8hsvhw&rid=giphy.gif&ct=s" width=55px align="right"/>
@@ -27,7 +27,7 @@
   </p>
 </div>
  
-<h3> Languages and tools </h3>
+<!-- <h3> Languages and tools </h3>
 
 <div align="center" valign="top"><br>
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
@@ -61,8 +61,17 @@
   <img align="center"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="30"/> 
   </a>
 </div>
+-->
 
-<h3> Social Media </h3>
+```js
+while(alive) {
+     eat();
+     //sleep();
+     code();
+     repeat();
+} 
+```
+<h3> Social Media 👾</h3>
 
 <div align="center">
   <a href="https://www.instagram.com/aleepsy/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -70,7 +79,7 @@
   <a href="mailto:alejandra_pcastillo@outlook.com"><img src="https://img.shields.io/badge/-Outlook-%23333?style=for-the-badge&logo=outlook&logoColor=white&color=blue" target="_blank"></a>
 </div>
 
-<h3> My GitHub Stats </h3>
+<h3> My GitHub Stats 📈</h3>
 
 <div align ="center">
   <a href="https://github.com/aleepsy">
