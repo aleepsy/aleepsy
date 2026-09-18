@@ -28,13 +28,16 @@
 <p align="center">
   <a href="https://github.com/aleepsy">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=aleepsy&cache_seconds=7200&layout=compact&theme=tokyonight&border_radius=10" alt="aleepsy's GitHub Stats" />
+    <br> <br>
   </a>
   <img src="https://streak-stats.demolab.com/?user=aleepsy&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="aleepsy's GitHub Streak" width="49%" />
 </p>
+
+<!--
 <p align="center">
   <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=aleepsy&theme=tokyonight&radius=10" alt="aleepsy's Activity Graph" />
 </p>
-
+-->
 
 ## 🛠️ Languages & Tools
 
